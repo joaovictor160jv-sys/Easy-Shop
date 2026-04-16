@@ -31,5 +31,4 @@ O projeto foi desenvolvido para se adaptar a diferentes dispositivos, garantindo
 <img src="https://github.com/joaovictor160jv-sys/Easy-Shop/blob/main/Assets/Desktop.png.png?raw=true">
 📱 Mobile
 <br>
-<br>
 <img src="https://github.com/joaovictor160jv-sys/Easy-Shop/blob/main/Assets/Mobile.png.png?raw=true">
